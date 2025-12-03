@@ -1,6 +1,4 @@
-entero: int = 10
-flotante: float = 10.5
-operadores = """
+"""
 + (suma)
 - (resta)
 * (multiplicación)
@@ -8,6 +6,9 @@ operadores = """
 / (divición decimal)
 // (division entero)
 """
+
+entero: int = 10
+decimal: float = 10.5
 
 c = 10 + 2
 print(c)
@@ -21,12 +22,11 @@ print(c)
 c = 10 / 2
 print(c)
 
-c = 10 ** 2
+c = 10**2
 print(c)
 
 c = 10 // 2
 print(c)
-
 
 long_number = 14_000_000_000
 print(long_number)
