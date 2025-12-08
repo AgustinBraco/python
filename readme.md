@@ -15,6 +15,7 @@
 - [Lists](code/3_lists.py)
 - [Tuples](code/4_tuples.py)
 - [If](code/5_if.py)
+- [Dictionary](code/6_dictionary.py)
 - [Examples](code/0_examples.py)
 
 ## Challenges
